@@ -10,7 +10,7 @@ def LongestWord(sen):
 
 
 # keep this function call here
-isit = LongestWord('Are we there yet, mawfucka?')
+isit = LongestWord('Are we there yet?')
 print(isit)
 
 # Notes
